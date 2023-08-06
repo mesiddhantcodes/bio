@@ -13,11 +13,14 @@
 
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=mesiddhantcodes&show_icons=true&locale=en&theme=tokyonight" alt="mesiddhantcodes" /></p>
+
+
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mesiddhantcodes&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mesiddhantcodes" /></p>
 
 
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=mesiddhantcodes&show_icons=true&locale=en&theme=tokyonight" alt="mesiddhantcodes" /></p>
 
 
