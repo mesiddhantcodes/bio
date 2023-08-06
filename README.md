@@ -5,7 +5,7 @@
 ## Follow Me on LinkedIn
 
 
-<p align="left"> <a href="https://twitter.com/mesiddhantcodes" target="blank"><img src="https://img.shields.io/twitter/mesiddhantcodes" alt="mesiddhantcodes" /></a> </p>
+<p align="left"> <a href="https://twitter.com/mesiddhantcodes" target="blank"><img src="https://img.shields.io/twitter/follow\mesiddhantcodes" alt="mesiddhantcodes" /></a> </p>
 
 
 
