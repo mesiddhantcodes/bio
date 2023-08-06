@@ -18,7 +18,7 @@
 <!-- Add the LinkedIn link with the logo and animation -->
 ## Connect with Me on LinkedIn
 
-[<img src="assets/linkedin_logo.svg" alt="LinkedIn" class="linkedin-logo">](https://www.linkedin.com/in/your_username/)
+[<img src="assets/linkedin_logo.svg" alt="LinkedIn" class="linkedin-logo">](https://www.linkedin.com/in/mesiddhantcodes/)
 
 
 
