@@ -14,11 +14,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mesiddhantcodes&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mesiddhantcodes" /></p>
 
-
-
-
-Passionate in back-end technologies like Node.js and MongoDB and Machine learning ,EDA,Feature Engineering and all statistics. Always eager to learn and take on new challenges in the tech world.
-This profile showcases my projects and code related to JavaScript (Node.js) Backend Development, Machine Learning, and Data Structures & Algorithms (DSA). Whether you are a fellow developer, student, or just someone interested in these topics, I hope you find something valuable here.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammedh-shadir&show_icons=true&locale=en&theme=tokyonight" alt="muhammedh-shadir" /></p>
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=mesiddhantcodes)
