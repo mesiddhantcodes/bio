@@ -10,7 +10,9 @@
 
 <p align="left"> <a href="https://twitter.com/mesiddhantcodes" target="blank"><img src="https://img.shields.io/twitter/follow/mesiddhantcodes" alt="mesiddhantcodes" /></a> </p>
 
-
+<a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=mishalalshahari&style=for-the-badge">
+</a>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=mesiddhantcodes&show_icons=true&locale=en&theme=tokyonight" alt="mesiddhantcodes" /></p>
