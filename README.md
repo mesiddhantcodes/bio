@@ -4,8 +4,9 @@
 
 ## Follow Me on LinkedIn
 
-[<img src="![image](https://github.com/mesiddhantcodes/mesiddhantcodes/assets/96016528/aa6694b0-ba9d-47c6-b49a-6b72748969e5)
-" alt="LinkedIn" width="30">](https://www.linkedin.com/in/mesiddhantcodes/)
+
+<p align="left"> <a href="https://twitter.com/mesiddhantcodes" target="blank"><img src="https://img.shields.io/twitter/follow/mesiddhantcodes" alt="mesiddhantcodes" /></a> </p>
+
 
 
 
