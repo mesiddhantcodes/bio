@@ -2,7 +2,16 @@
 <h3 align="center">This profile showcases my projects and code related to JavaScript (Node.js) Backend Development, Machine Learning, and Data Structures & Algorithms (DSA). Whether you are a fellow developer, student, or just someone interested in these topics, I hope you find something valuable here.</h3>
 
 
-## Follow Me on LinkedIn
+- 🌱 I’m currently working on **Backend Devlopment**
+
+- 👨‍💻 All of my projects are available at [mesiddhantcodes](mesiddhantcodes)
+
+- 💬 Ask me about **MERN stack and related technologies**
+
+- 📫 How to reach me **siddhuyadav662@gmail.com**
+
+- ⚡ Fun fact **Declare variable !! Not , war**
+
 
 
 <p align="left"> <a href="https://twitter.com/mesiddhantcodes" target="blank"><img src="https://img.shields.io/twitter/follow/mesiddhantcodes" alt="mesiddhantcodes" /></a> </p>
