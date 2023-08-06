@@ -3,7 +3,7 @@
 
 
 
-[<img src="data:image/svg+xml;base64,{{YOUR_BASE64_ENCODED_SVG}}" alt="LinkedIn" class="linkedin-logo">](https://www.linkedin.com/in/mesiddhantcodes/)
+[<img src="LINK_TO_YOUR_HOSTED_LINKEDIN_LOGO" alt="LinkedIn" class="linkedin-logo">](https://www.linkedin.com/in/mesiddhantcodes/)
 
 
 Passionate in back-end technologies like Node.js and MongoDB and Machine learning ,EDA,Feature Engineering and all statistics. Always eager to learn and take on new challenges in the tech world.
