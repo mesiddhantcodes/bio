@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Siddhant Kumar</h1>
 <h3 align="center">This profile showcases my projects and code related to JavaScript (Node.js) Backend Development, Machine Learning, and Data Structures & Algorithms (DSA). Whether you are a fellow developer, student, or just someone interested in these topics, I hope you find something valuable here.</h3>
-<img align="bottom" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="center" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 - 🌱 I’m currently working on **Backend Development**
 
