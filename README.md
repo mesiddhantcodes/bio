@@ -14,7 +14,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mesiddhantcodes&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mesiddhantcodes" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammedh-shadir&show_icons=true&locale=en&theme=tokyonight" alt="muhammedh-shadir" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mesiddhantcodes&show_icons=true&locale=en&theme=tokyonight" alt="mesiddhantcodes" /></p>
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=mesiddhantcodes)
